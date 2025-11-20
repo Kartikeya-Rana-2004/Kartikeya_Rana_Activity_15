@@ -1,0 +1,14 @@
+# Repository Plan
+
+# Maintenance Strategy
+- Main branch contains stable, finalized work
+- Feature branches for updates and additions
+- Use issues to track improvements
+- Meaningful commit messages describing changes
+
+# Activity #14 Workflow
+1. Collected code from previous activities
+2. Created organized QMD file with sections
+3. Rendered to PDF using RStudio
+4. Uploaded all files to this repository
+5. Created documentation via README updates
